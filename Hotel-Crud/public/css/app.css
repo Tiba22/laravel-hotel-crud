@@ -1,0 +1,21 @@
+body {
+  background-color: #ccc;
+  text-align: center;
+  color: blue;
+}
+
+.addnew {
+  font-size: 16px;
+  border: 1px solid black;
+  padding: 5px 10px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
